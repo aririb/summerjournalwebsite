@@ -1,0 +1,102 @@
+/* Setting the background color*/
+body {
+    margin-left: 0px;
+    background-color: rgb(192, 176, 151);
+    font-family: Helvetica, Arial, sans-serif;
+    margin-bottom: 70px;
+  }
+
+/* Styling header 1*/
+  h1 {
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 80px;
+    margin-bottom: 15px;
+  }
+
+  /* Styling header 2*/
+  h2 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  /* Sizing header 4*/
+  h4 {
+    font-size: 18px;
+  }
+
+  /* Standardizing all text to the same font and centered (giving back-up fonts)*/
+  h1, h2, h4, p {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+
+  /* Styling paragraph text*/
+  p {
+    line-height: 25px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  
+  /* Next 3 sections making navigation bar fixed into top position with optimal sizing and color*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(103, 112, 91);
+    opacity: 70%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Making image look visually pleasing*/
+  img {
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+  /* Making sure instructions for page look optimal*/
+  figcaption {
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 60px;
+  }
+
+  /* Personalizing links to be pleasing colors and interactive when hovered over*/
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: #06170e;
+  }
+  
+  a:active {
+    color: darkolivegreen;
+  }

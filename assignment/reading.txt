@@ -1,0 +1,14 @@
+	
+        While reading the assigned websites, I learned a lot about the roadmap towards being a web developer as well as a full-stack 
+    developer. This past semester, I did a co-op at Bain & Company where I was involved in the product management department. Although 
+    I didn’t directly do any coding, I was given the responsibility of managing their knowledge base articles revolving around 
+    Microsoft Teams software where I had to edit the designs of the web pages. Here, I learned a good amount of the actual user 
+    interface of a web page, but not much about the coding elements behind the scenes. Reading the websites assigned was very 
+    interesting to me since that is a hole in my current knowledge about front-end development.
+	
+    
+        While I knew that there were a lot of aspects to front-end development, I didn’t realize there were so many elements that 
+    are widely different. There are both highly technical aspects to learn, such as writing HTML and Javascript, while there are 
+    creative elements, like designing user interfaces and writing CSS. Overall, it is a blend of computer science and design. The 
+    roadmap also solidified my knowledge in what full stack development is. Previously, I knew it involved front-end development and 
+    more technical aspects, but now I realize how much weight of front-end development there is in the position.

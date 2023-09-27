@@ -1,0 +1,114 @@
+/* Setting background color and standardizing text and margins*/
+body {
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: rgb(170, 177, 156);
+  font-family: Helvetica, Arial, sans-serif;
+  margin-bottom: 70px;
+}
+  
+/* Making all images same width for viewing pleasure and organization*/
+  img {
+    width: 250px;
+  }
+
+/* Customizing h1*/
+  h1 {
+    font-size: 50px;
+    margin-top: 80px;
+    margin-bottom: 15px;
+  }
+
+/* Customizing h2 size and margins*/
+  h2 {
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
+  
+  /* Customizing h3 sizes*/
+  h4 {
+    font-size: 18px;
+  }
+  
+  /* Standardizing text to have the same fonts and aligned in the center*/
+  h1, h2, h4, p {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+
+  /* Customizing paragraph sizes and margins to look visually pleasing*/
+  p {
+    line-height: 25px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+  }
+
+  /* Making captions under photos easy to read and appealing*/
+  figcaption {
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 10px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  /* organizing table so that photos are displayed in a visually pleasing and easy to view way*/
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+  }
+  
+  /* sizing and spacing images so that they are even on the page*/
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* Next 3 sections for navigation bar styling and spacing*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(103, 112, 91);
+    opacity: 70%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* clickable link customization*/
+  a {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: #06170e;
+  }
+  
+  a:active {
+    color: darkolivegreen;
+  }
+  
